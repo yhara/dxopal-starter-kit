@@ -1,22 +1,13 @@
-# DXOpal Game Template
+# DXOpal Starter Kit
 
 [DXOpal](https://github.com/yhara/dxopal) is a game development framework
-for [Opal](http://opalrb.org/), API compatible to [DXRuby](http://dxruby.osdn.jp/).
+for [Opal](http://opalrb.org/).
 
-## Demo
+This repository is a template for making games without installing Ruby.
 
-https://yhara.github.io/dxopal-game/
+Please see the website for instructions.
 
-## How to create a game
-
-TBA
-
-(basically just clone this repo, `cp -r hello yourgame` and open
-yourgame/index.html in your browser. you don't need ruby installed.
-
-Note that you cannot use Google Chrome to test your game because
-it does not allow Ajax for `file://`. Use Firefox, Safari, etc. or
-run a server to serve index.html)
+https://yhara.github.io/dxopal/
 
 ## License
 
@@ -24,4 +15,4 @@ MIT
 
 ## Contact
 
-https://github.com/yhara/dxopal-game
+If you find a bug, please file an issue on the [main repo](https://github.com/yhara/dxopal/issues).
