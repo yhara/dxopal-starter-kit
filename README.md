@@ -5,9 +5,9 @@ for [Opal](http://opalrb.org/).
 
 This repository is a template for making games without installing Ruby.
 
-Please see the website for instructions.
+## Usage
 
-https://yhara.github.io/dxopal/
+See https://yhara.github.io/dxopal/
 
 ## License
 
