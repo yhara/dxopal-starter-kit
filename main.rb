@@ -1,13 +1,12 @@
 require 'dxopal'
 include DXOpal
-Image.register(:player, 'images/noschar.png') 
-Image.register(:ringo, 'images/ringo.png')
+Image.register(:player, 'images/player.png') 
 Sound.register(:get, 'sounds/get.wav')
 Window.load_resources do
   DX = 8
   DY = 8
   Window.bgcolor = [255, 255, 128]
-  player_img = Image[:player].slice_tiles(4, 4)[0]
+  player_img = Image[:player]
   x = Window.width / 2
   y = Window.height / 2
 
