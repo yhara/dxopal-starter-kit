@@ -1,3 +1,11 @@
+# **DISCONTINUED**
+
+dxopal-starter-kit no longer works with latest Firefox (Ajax from local file is
+disabled as an security issue.)
+
+最新のFirefoxでは動かなくなったようです(ローカルファイルからのAjaxがsecurity
+issueとして禁止されたため)。
+
 # DXOpal Starter Kit
 
 [DXOpal](https://github.com/yhara/dxopal) is a game development framework
